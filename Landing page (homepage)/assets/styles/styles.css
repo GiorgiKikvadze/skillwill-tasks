@@ -141,30 +141,224 @@ a {
     border-radius: 15px;
 }
 
-.grid-image-first {
+.grid-div-one {
     grid-area: first;
     padding-bottom: 6.5px;
+    position: relative;
 }
 
-.grid-image-second {
+.score-1 {
+    position: absolute;
+    top: 10%;
+    left: 10px;
+    padding: 0px 15px;
+    border-radius: 12px;
+    font-size: 12px;
+    width: 45px;
+    height: 31px;
+}
+
+.h5-1 {
+    position: absolute;
+    top: 75%;
+    left: 10px;
+    font-size: 20px;
+    background: transparent;
+    color: white;
+    font-weight: 100;
+}
+
+.worefall-1 {
+    position: absolute;
+    top: 82%;
+    left: 10px;
+    background: transparent;
+    color: white;
+    font-weight:lighter;
+}
+
+.grid-div-second {
     grid-area: second;
     padding-top: 6.5px;
+    position: relative;
 }
 
-.grid-image-third {
+.score-2 {
+    position: absolute;
+    top: 10%;
+    left: 10px;
+    padding: 0px 15px;
+    border-radius: 12px;
+    font-size: 12px;
+    width: 45px;
+    height: 31px;
+}
+
+.h5-2 {
+    position: absolute;
+    top: 75%;
+    left: 10px;
+    font-size: 20px;
+    background: transparent;
+    color: white;
+    font-weight: 100;
+}
+
+.worefall-2 {
+    position: absolute;
+    top: 82%;
+    left: 10px;
+    background: transparent;
+    color: white;
+    font-weight:lighter;
+}
+
+.grid-div-third {
     grid-area: third;
+    position: relative;
 }
 
-.grid-image-fourth {
+.score-3 {
+    position: absolute;
+    top: 3%;
+    left: 10px;
+    padding: 0px 15px;
+    border-radius: 12px;
+    font-size: 12px;
+    width: 45px;
+    height: 32px;
+    background-color: black;
+    color: white;
+}
+
+.h5-3 {
+    position: absolute;
+    top: 87%;
+    left: 10px;
+    font-size: 20px;
+    background: transparent;
+    color: white;
+    font-weight: 100;
+}
+
+.worefall-3 {
+    position: absolute;
+    top: 91%;
+    left: 10px;
+    background: transparent;
+    color: white;
+    font-weight:lighter;
+}
+
+.grid-div-fourth {
     grid-area: fourth;
+    position: relative;
 }
 
-.grid-image-fifth {
+.score-4 {
+    position: absolute;
+    top: 10%;
+    left: 10px;
+    padding: 0px 15px;
+    border-radius: 12px;
+    font-size: 12px;
+    width: 45px;
+    height: 32px;
+    background-color: black;
+    color: white;
+}
+
+.h5-4 {
+    position: absolute;
+    top: 75%;
+    left: 10px;
+    font-size: 20px;
+    background: transparent;
+    color: white;
+    font-weight: 100;
+}
+
+.worefall-4 {
+    position: absolute;
+    top: 82%;
+    left: 10px;
+    background: transparent;
+    color: white;
+    font-weight:lighter;
+}
+
+.grid-div-fifth {
     grid-area: fifth;
+    position: relative;
 }
 
-.grid-image-sixth {
+.score-5 {
+    position: absolute;
+    top: 10%;
+    left: 10px;
+    padding: 0px 15px;
+    border-radius: 12px;
+    font-size: 12px;
+    width: 45px;
+    height: 32px;
+    background-color: black;
+    color: white;
+}
+
+.h5-5 {
+    position: absolute;
+    top: 75%;
+    left: 10px;
+    font-size: 20px;
+    background: transparent;
+    color: white;
+    font-weight: 100;
+}
+
+.worefall-5 {
+    position: absolute;
+    top: 82%;
+    left: 10px;
+    background: transparent;
+    color: white;
+    font-weight:lighter;
+}
+
+.grid-div-sixth {
     grid-area: sixth;
+    position: relative;
+}
+
+.score-6 {
+    position: absolute;
+    top: 10%;
+    left: 10px;
+    padding: 0px 15px;
+    border-radius: 12px;
+    font-size: 12px;
+    width: 45px;
+    height: 32px;
+    background-color: black;
+    color: white;
+}
+
+.h5-6 {
+    position: absolute;
+    top: 75%;
+    left: 10px;
+    font-size: 20px;
+    background: transparent;
+    color: white;
+    font-weight: 100;
+}
+
+.worefall-6 {
+    position: absolute;
+    top: 82%;
+    left: 10px;
+    background: transparent;
+    color: white;
+    font-weight:lighter;
 }
 
 .text-on-the-image {
